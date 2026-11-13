@@ -1,0 +1,8 @@
+Milestones
+
+1. Build a BatchGetPayout API
+    a) Optional Filter by PayoutStatus
+    b) Return Payouts for a specific contractor (required)
+2. Users complaining about money going missing. Investigate + Debug to find the RCA 
+3. Users are getting annoyed when they need to send multiple payouts 1 by 1. 
+    - How can we improve this experience. 
